@@ -1,9 +1,9 @@
 // declaration
-function wish(namee){
-    console.log("gm",namee)
+function wish(){
+    console.log("gm")
 }
 //invoking
-wish("namee")
+wish()
 
 //==================================
 function greet(name){
